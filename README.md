@@ -3,7 +3,7 @@
 ## Overview
 Color Generator is a web application that allows users to generate random color palettes with ease. Whether you need inspiration for a design project or are looking for specific color combinations, this app provides a quick and simple way to explore a variety of colors.
 
-Check out the live demo here: Color Generator
+Check out the live demo here: [Color Generator](https://colors-psi-ten.vercel.app/)
 
 ![Screenshot (1166)](https://github.com/Vanshikavemula/Colors/assets/142506903/92c489b2-1df3-409a-ae72-5b8ba50cfe4b)
 
